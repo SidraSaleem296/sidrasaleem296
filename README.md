@@ -24,7 +24,7 @@
 ✔ Callme: ***She/Her*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently learning about **deep learning**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer, maybe in a day or so. The question must be valid and study or work-related <br>
+✔ Ask me study or work-related questions, if I am alive I will answer<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it stores in the brain* 😎<br><br><br><br>
 
 <hr>
