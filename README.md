@@ -18,17 +18,23 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My SE KIT ....***
 
-![Python](/assets/svg/python.svg)
-![Flask](/assets/svg/flask.svg)
-![Node.js](/assets/svg/nodejs.svg)
-![Git](/assets/svg/git.svg)
-![GitHub](/assets/svg/github.svg)
-![Npm](/assets/svg/npm.svg)
-![GitLab](/assets/svg/gitlab.svg)
-![MySQL](/assets/svg/mysql.svg)
-![Docker](/assets/svg/docker.svg)
-![MongoDB](/assets/svg//mongodb.svg)
-![Firebase](/assets/svg/firebase.svg)
+![Python](/asset/python.svg)
+![Flask](/asset/flask.svg)
+![Node.js](/asset/nodejs.svg)
+![Git](/assets/git.svg)
+![GitHub](/assets/github.svg)
+![Npm](/assets/npm.svg)
+![GitLab](/assets/gitlab.svg)
+![MySQL](/asset/mysql.svg)
+![Docker](/asset/docker.svg)
+![MongoDB](/assets/mongodb.svg)
+![Firebase](/assets/firebase.svg)
+![Canva](/assets/Canva.svg)
+![Linux](/assets/linux.svg)
+![bash](/assets/bash.svg)
+![jupyter](/assets/jupyter.svg)
+![kaggle](/assets/kaggle.svg)
+![ubuntu](/assets/ubuntu.svg)
 
 
 ## Recent Blog Posts
