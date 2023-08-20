@@ -7,7 +7,9 @@
 
 - 💻 I’m currently woking in **SudoConsultants** as a **Enterprise Content Manager**.
 - 🧑‍💻 I’m currently learning LLLMs(Large Language Models) and Working on Open Source AI Projects .
-- ✉️ Reach me out through [thesolutionstotech@gmail.com](mailto:thesolutionstotech@gmail.com)
+- ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
+- 📫 &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Sidra-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sidra-saleem-5134911b5)
+- ✉️ My Email [thesolutionstotech@gmail.com](mailto:thesolutionstotech@gmail.com)
 
 
 ✔ Callme: ***She/Her*** or ***TeamWorker*** 😊 <br>
@@ -29,7 +31,7 @@
 ![Docker](/asset/docker.svg)
 ![MongoDB](/asset/mongodb.svg)
 ![Firebase](/asset/firebase.svg)
-![Canva](/asset/Canva.svg)
+![Canva](/asset/canva.svg)
 ![Linux](/asset/linux.svg)
 ![bash](/asset/bash.svg)
 ![jupyter](/asset/jupyter.svg)
@@ -46,7 +48,7 @@
 
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SidraSaleem296&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SidraSaleem296&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=SidraSaleem296&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
