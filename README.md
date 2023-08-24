@@ -14,7 +14,8 @@
 <hr>
 
 - 💻 I’m currently woking with **SudoConsultants** as a **Enterprise Content Manager**.
-- 🧑‍💻 I’m currently learning LLLMs(Large Language Models) and Working on Open Source AI Projects.
+- 👩‍💻 I’m currently enrolled as a Software Engineering Student in Comsats University Islamabad
+- 👩‍💻As a side stuff learning LLLMs(Large Language Models) and Working on Open Source AI Projects.
 - 🤖 Generative AI and Quantum Computation enthusiast 🧠💻
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
 - 📫 &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Sidra-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sidra-saleem-5134911b5)
