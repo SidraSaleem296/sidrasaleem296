@@ -23,36 +23,15 @@
 ✔ Ask me study or work-related questions, if I am alive I will answer<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it stores in the brain* 😎
 <hr>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<h1>🛠️ My Tech Arsenal: Crafting with precision and mastery</h1>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><h1>🛠️ My Tech Arsenal: Crafting with precision and mastery</h1>;
-![Python](/asset/python.svg)
-![Node.js](/asset/nodejs.svg)
-![Git](/asset/git.svg)
-![Npm](/asset/npm.svg)
-![GitLab](/asset/gitlab.svg)
-![MySQL](/asset/mysql.svg)
-![Docker](/asset/docker.svg)
-![MongoDB](/asset/mongodb.svg)
-![Canva](/asset/canva.svg)
-![Linux](/asset/linux.svg)
-![bash](/asset/bash.svg)
-![jupyter](/asset/jupyter.svg)
-![kaggle](/asset/kaggle.svg)
-![ubuntu](/asset/ubuntu.svg)
-![Figma](/asset/figma.svg)
-![Kaggle](/asset/kaggle.svg)
-![Javascript](/asset/javascript.svg)
-![Trello](/asset/trello.svg)
-![React JS](/asset/reactjs.svg)
-![Html](/asset/html.svg)
-![Bootstrap](/asset/bootstrap.svg)
-![C](/asset/c.svg)
-![CSS](/asset/css.svg)
-![Slack](/asset/slack.svg)
-![php](/asset/php.svg)
+![Python](/asset/python.svg) ![Node.js](/asset/nodejs.svg) ![Git](/asset/git.svg) ![Npm](/asset/npm.svg) ![GitLab](/asset/gitlab.svg) ![MySQL](/asset/mysql.svg) ![Docker](/asset/docker.svg) ![MongoDB](/asset/mongodb.svg) ![Canva](/asset/canva.svg) ![Linux](/asset/linux.svg) ![bash](/asset/bash.svg) ![jupyter](/asset/jupyter.svg) ![kaggle](/asset/kaggle.svg) ![ubuntu](/asset/ubuntu.svg) ![Figma](/asset/figma.svg) ![Kaggle](/asset/kaggle.svg) ![Javascript](/asset/javascript.svg) ![Trello](/asset/trello.svg) ![React JS](/asset/reactjs.svg) ![Html](/asset/html.svg) ![Bootstrap](/asset/bootstrap.svg) ![C](/asset/c.svg) ![CSS](/asset/css.svg) ![Slack](/asset/slack.svg) ![php](/asset/php.svg)
+
 [![IAM](https://img.shields.io/badge/AWS-IAM-F58021?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/iam/)
 [![Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/lambda/)
 [![EC2](https://img.shields.io/badge/AWS-EC2-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/ec2/)
+
 
 <hr>
 
