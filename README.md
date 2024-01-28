@@ -34,7 +34,6 @@
 ![Python](/asset/python.svg)
 ![Node.js](/asset/nodejs.svg)
 ![Git](/asset/git.svg)
-![GitHub](/asset/github.svg)
 ![Npm](/asset/npm.svg)
 ![GitLab](/asset/gitlab.svg)
 ![MySQL](/asset/mysql.svg)
