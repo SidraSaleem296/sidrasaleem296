@@ -32,7 +32,6 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My SE KIT ....***
 
 ![Python](/asset/python.svg)
-![Flask](/asset/flask.svg)
 ![Node.js](/asset/nodejs.svg)
 ![Git](/asset/git.svg)
 ![GitHub](/asset/github.svg)
@@ -58,8 +57,10 @@
 ![CSS](/asset/css.svg)
 ![Slack](/asset/slack.svg)
 ![php](/asset/php.svg)
-![Express](/asset/express.svg)
 [![IAM](https://img.shields.io/badge/AWS-IAM-F58021?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/iam/)
+[![Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/lambda/)
+[![EC2](https://img.shields.io/badge/AWS-EC2-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/ec2/)
+
 
 
 <hr>
