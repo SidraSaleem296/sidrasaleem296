@@ -24,7 +24,7 @@
 ✔ Fun fact : *I Always try to learn something new and then sleep till it stores in the brain* 😎
 <hr>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp <h1>🛠️ My Tech Arsenal: Crafting with precision and mastery</h1>;
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><h1>🛠️ My Tech Arsenal: Crafting with precision and mastery</h1>;
 ![Python](/asset/python.svg)
 ![Node.js](/asset/nodejs.svg)
 ![Git](/asset/git.svg)
