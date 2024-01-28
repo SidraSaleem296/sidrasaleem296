@@ -23,8 +23,7 @@
 ✔ Ask me study or work-related questions, if I am alive I will answer<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it stores in the brain* 😎
 <hr>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<h3>🛠️ My Tech Arsenal: Crafting with precision and mastery</h3>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <h3>My Tool Kit</h3>
 
 ![Python](/asset/python.svg) ![Node.js](/asset/nodejs.svg) ![Git](/asset/git.svg) ![Npm](/asset/npm.svg) ![GitLab](/asset/gitlab.svg) ![MySQL](/asset/mysql.svg) ![Docker](/asset/docker.svg) ![MongoDB](/asset/mongodb.svg) ![Canva](/asset/canva.svg) ![Linux](/asset/linux.svg) ![bash](/asset/bash.svg) ![jupyter](/asset/jupyter.svg) ![kaggle](/asset/kaggle.svg) ![ubuntu](/asset/ubuntu.svg) ![Figma](/asset/figma.svg) ![Kaggle](/asset/kaggle.svg) ![Javascript](/asset/javascript.svg) ![Trello](/asset/trello.svg) ![React JS](/asset/reactjs.svg) ![Html](/asset/html.svg) ![Bootstrap](/asset/bootstrap.svg) ![C](/asset/c.svg) ![CSS](/asset/css.svg) ![Slack](/asset/slack.svg) ![php](/asset/php.svg)
 
