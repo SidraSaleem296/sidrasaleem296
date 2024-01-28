@@ -59,9 +59,8 @@
 ![Slack](/asset/slack.svg)
 ![php](/asset/php.svg)
 ![Express](/asset/express.svg)
-![AWS Lambda](/asset/compute-aws-lambda-lambdafunction.svg)
-![AWS IAM](/asset/aws-iam-identity-and-access-management.svg)
-![AWS EC2](/asset/aws-ec2.svg)
+[![IAM](https://img.shields.io/badge/AWS-IAM-F58021?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/iam/)
+
 
 <hr>
 
