@@ -27,8 +27,6 @@
 ✔ Ask me study or work-related questions, if I am alive I will answer<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it stores in the brain* 😎<br><br><br><br>
 
-<hr>
-
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My SE KIT ....***
 
 ![Python](/asset/python.svg)
