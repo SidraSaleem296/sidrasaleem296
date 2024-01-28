@@ -6,10 +6,6 @@
   Sidra Saleem Here
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>   
-<!-- ![npm](https://img.shields.io/npm/dw/manthanank)
-![npm](https://img.shields.io/npm/dm/manthanank)
-![npm](https://img.shields.io/npm/dy/manthanank) -->
-
 <hr>
 
 - 💻 I’m currently woking with **SudoConsultants** as an **Enterprise Content Manager**.
@@ -25,8 +21,8 @@
 ✔ Callme: ***She/Her*** or ***TeamWorker*** 😊 <br>
 ✔ I’m looking to collaborate with any **Open - Source AI projects**<br>
 ✔ Ask me study or work-related questions, if I am alive I will answer<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it stores in the brain* 😎<br><br><br><br>
-
+✔ Fun fact : *I Always try to learn something new and then sleep till it stores in the brain* 😎
+<hr>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My SE KIT ....***
 
 ![Python](/asset/python.svg)
@@ -57,8 +53,6 @@
 [![IAM](https://img.shields.io/badge/AWS-IAM-F58021?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/iam/)
 [![Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/lambda/)
 [![EC2](https://img.shields.io/badge/AWS-EC2-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/ec2/)
-
-
 
 <hr>
 
