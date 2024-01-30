@@ -71,8 +71,7 @@
       flex-direction: row;
       align-items: flex-start;
     }
-
-    .stats-container {
+.stats-container {
       flex: 1;
       margin-right: 20px;
     }
