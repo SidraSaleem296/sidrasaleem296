@@ -64,23 +64,9 @@
         <img src="https://github-profile-trophy.vercel.app/?username=SidraSaleem296&theme=juicyfresh&no-bg=true" />
     </div>
 </body> -->
-<head>
-  <style>
-    .flex-container {
-      display: flex;
-      flex-direction: row;
-      align-items: flex-start;
-    }
-.stats-container {
-      flex: 1;
-      margin-right: 20px;
-    }
-  </style>
-</head>
-
 <body>
-  <div class="flex-container">
-    <div class="stats-container">
+  <div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: space-between;">
+    <div style="display: flex; flex-direction: column; align-items: flex-start;">
       <p>
         <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git" />
         &nbsp;<i><b>Git Activeness</b></i>
@@ -91,20 +77,20 @@
       <p>
         &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=SidraSaleem296&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" />
       </p>
+      <hr>
+      <p align="center">
+        <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />
+        &nbsp;Git profile Trophies
+      </p>
+      <br>
+      <img src="https://github-profile-trophy.vercel.app/?username=SidraSaleem296&theme=juicyfresh&no-bg=true" />
     </div>
     <div>
-      <a href="https://app.daily.dev/sidrasaleem296"><img src="https://github.com/sidrasaleem296/sidrasaleem296/blob/main/devcard.svg" width="400"
-          alt="Sidra Saleem's Dev Card" /></a>
+      <a href="https://app.daily.dev/sidrasaleem296"><img src="https://github.com/sidrasaleem296/sidrasaleem296/blob/main/devcard.svg" width="400" alt="Sidra Saleem's Dev Card" /></a>
     </div>
   </div>
-  <hr>
-  <p align="center">
-    <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />
-    &nbsp;Git profile Trophies
-  </p>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=SidraSaleem296&theme=juicyfresh&no-bg=true" />
 </body>
+
 
 </html>
 
