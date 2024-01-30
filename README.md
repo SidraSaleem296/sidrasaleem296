@@ -29,6 +29,20 @@
 [![IAM](https://img.shields.io/badge/AWS-IAM-F58021?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/iam/)
 [![Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/lambda/)
 [![EC2](https://img.shields.io/badge/AWS-EC2-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/ec2/)
+[![IAM](https://img.shields.io/badge/AWS-IAM-F58021?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/iam/)
+[![Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/lambda/)
+[![EC2](https://img.shields.io/badge/AWS-EC2-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/ec2/)
+[![CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-00BFFF?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/cloudwatch/)
+[![SNS](https://img.shields.io/badge/AWS-SNS-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/sns/)
+[![SQS](https://img.shields.io/badge/AWS-SQS-FF4500?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/sqs/)
+[![SageMaker](https://img.shields.io/badge/AWS-SageMaker-44B78B?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/sagemaker/)
+[![EKS](https://img.shields.io/badge/AWS-EKS-27578C?style=flat&logo=amazon-eks&logoColor=white)](https://aws.amazon.com/eks/)
+[![Kinesis](https://img.shields.io/badge/AWS-Kinesis-1F7C9D?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/kinesis/)
+[![Fargate](https://img.shields.io/badge/AWS-Fargate-4D5D53?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/fargate/)
+[![Step Functions](https://img.shields.io/badge/AWS-StepFunctions-00A6D6?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/step-functions/)
+[![Config](https://img.shields.io/badge/AWS-Config-1E90FF?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/config/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![DevOps](https://img.shields.io/badge/AWS-DevOps-FF4500?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/devops/)
 
 
 <hr>
