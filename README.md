@@ -15,7 +15,6 @@
 - ⚡ In my free time, I love exploring the latest tech articles,research papers and staying up-to-date with emerging technologies and best practices.
 - 📫 &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Sidra-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sidra-saleem-5134911b5)
 - ✉️ Official Email [thesolutionstotech@gmail.com](mailto:thesolutionstotech@gmail.com)
-<a href="https://app.daily.dev/sidrasaleem"><img src="https://api.daily.dev/devcards/3397167f22844a33aac0f502c8ce6374.png?r=mq5" width="400" alt="Sidra Saleem's Dev Card"/></a>
 <hr>
 
 ✔ Callme: ***She/Her*** or ***TeamWorker*** 😊 <br>
