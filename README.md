@@ -56,28 +56,6 @@
 
 <!DOCTYPE html>
 <html>
-<!-- <body>
-    <div style="display: flex; flex-direction: column; align-items: flex-start;">
-        <p>
-            <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
-            &nbsp;<i><b>Git Activeness</b></i>
-        </p>
-        <p>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SidraSaleem296&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" />
-        </p>
-        <p>
-            &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=SidraSaleem296&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" />
-        </p>
-        <br>
-        <hr>
-        <p align="center">
-            <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />
-            &nbsp;Git profile Trophies
-        </p>
-        <br>
-        <img src="https://github-profile-trophy.vercel.app/?username=SidraSaleem296&theme=juicyfresh&no-bg=true" />
-    </div>
-</body> -->
 <body>
   <div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: space-between;">
     <div style="display: flex; flex-direction: column; align-items: flex-start;">
