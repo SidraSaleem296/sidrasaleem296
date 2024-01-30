@@ -83,6 +83,7 @@
         &nbsp;Git profile Trophies
       </p>
       <br>
+      <hr>
       <img src="https://github-profile-trophy.vercel.app/?username=SidraSaleem296&theme=juicyfresh&no-bg=true" />
     </div>
     <div>
