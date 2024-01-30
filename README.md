@@ -83,9 +83,9 @@
         &nbsp;Git profile Trophies
       </p>
       <br>
-      <hr>
       <img src="https://github-profile-trophy.vercel.app/?username=SidraSaleem296&theme=juicyfresh&no-bg=true" />
     </div>
+    <hr>
     <div>
       <a href="https://app.daily.dev/sidrasaleem296"><img src="https://github.com/sidrasaleem296/sidrasaleem296/blob/main/devcard.svg" width="400" alt="Sidra Saleem's Dev Card" /></a>
     </div>
