@@ -43,6 +43,7 @@
 [![Config](https://img.shields.io/badge/AWS-Config-1E90FF?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/config/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![DevOps](https://img.shields.io/badge/AWS-DevOps-FF4500?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/devops/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-9BCE0B?style=flat&logo=jenkins&logoColor=white)](https://jenkins.io/)
 
 
 <hr>
