@@ -51,8 +51,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Leveraging AWS Lambda Layers for Code Reusability and Management] (https://dev.to/sudoconsultants/leveraging-aws-lambda-layers-for-code-reusability-and-management-2g6g)
+- [How to Master Multi Region Architectures in AWS](https://dev.to/sudoconsultants/how-to-master-multi-region-architectures-in-aws-4356)
+- [AWS Device Farm: Testing Software on Real Devices (QA Automation Tool)](https://dev.to/sudoconsultants/aws-device-farm-testing-software-on-real-devices-qa-automation-tool-1k6l)
+- [Personal Blog](https://dev.to/sidrasaleem296)
 - [Best Gaming Consoles](https://solutionstotech.com/?p=22)
-
 <hr>
 
 <!DOCTYPE html>
