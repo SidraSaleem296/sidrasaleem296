@@ -16,11 +16,16 @@
 - 📫 &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Sidra-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sidra-saleem-5134911b5)
 - ✉️ Official Email [thesolutionstotech@gmail.com](mailto:thesolutionstotech@gmail.com)
 <hr>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66d9bf4cc46f68d05267f9f6?variant=dark" alt="roadmap.sh"/></a>
+<hr>
 
-✔ Callme: ***She/Her*** or ***TeamWorker*** 😊 <br>
-✔ I’m looking to collaborate with any **Open - Source AI projects**<br>
-✔ Ask me study or work-related questions, if I am alive I will answer<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it stores in the brain* 😎
+<ul>
+  <li>✔ Call me: <b>She/Her</b> or <b>TeamWorker</b> 😊</li>
+  <li>✔ I’m looking to collaborate with any <b>Open - Source AI projects</b></li>
+  <li>✔ Ask me study or work-related questions, if I am alive I will answer</li>
+  <li>✔ Fun fact: <i>I always try to learn something new and then sleep till it stores in the brain</i> 😎</li>
+</ul>
+
 <hr>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <h3>My Tool Kit</h3>
 
