@@ -16,7 +16,7 @@
 - 📫 &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Sidra-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sidra-saleem-5134911b5)
 - ✉️ Official Email [thesolutionstotech@gmail.com](mailto:thesolutionstotech@gmail.com)
 <hr>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66d9bf4cc46f68d05267f9f6?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66d9bf4cc46f68d05267f9f6?variant=dark" alt="roadmap.sh"/></a>
 <hr>
 
 <ul>
