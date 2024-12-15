@@ -14,7 +14,7 @@
 - 🤖 **XAI**, **Generative AI** and **Quantum Computation** enthusiast 🧠💻
 - ⚡ In my free time, I love exploring the latest tech articles,research papers and staying up-to-date with emerging technologies and best practices.
 - 📫 &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Sidra-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sidra-saleem-5134911b5)
-- ✉️ Official Email [thesolutionstotech@gmail.com](mailto:thesolutionstotech@gmail.com)
+- ✉️ Email [sidrasaleem296@gmail.com](mailto:thesolutionstotech@gmail.com)
 
 <ul>
   <li>✔ Call me: <b>She/Her</b> or <b>TeamWorker</b> 😊</li>
