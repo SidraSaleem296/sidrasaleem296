@@ -9,7 +9,7 @@
 <hr>
 
 - 💻 I’m currently woking with **SudoConsultants** as an **Enterprise Content Manager**.
-- 👩‍💻 Currently enrolled as a Software Engineering Student in Comsats University Islamabad
+- 👩‍💻 Software Engineering Graduate from Comsats University Islamabad
 - 👩‍💻As a side stuff learning LLLMs(Large Language Models) and Working on **Open Source** AI Projects.
 - 🤖 **XAI**, **Generative AI** and **Quantum Computation** enthusiast 🧠💻
 - ⚡ In my free time, I love exploring the latest tech articles,research papers and staying up-to-date with emerging technologies and best practices.
