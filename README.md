@@ -6,7 +6,6 @@
   Sidra Saleem Here
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>   
-<hr>
 
 - 👩‍💻 Current working as a **Technical Writer and Full Stack developer** at **Securiti ai**.  
 - 💻 I’ve worked with **SudoConsultants** as an **Enterprise Content Manager**.  
