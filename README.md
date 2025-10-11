@@ -29,9 +29,9 @@
 
 ![Next.js](/asset/nextjs.svg)
 ![TypeScript](/asset/typescript.svg)
-![Prisma ORM](/asset/prisma.svg)
+![Prisma ORM](/asset/prisma-svgrepo-com.svg)
 ![MongoDB](/asset/mongodb.svg)
-![Hugging Face](/asset/huggingface.svg)
+![Hugging Face](/asset/hf-logo.svg)
 ![Python](/asset/python.svg)
 ![Node.js](/asset/nodejs.svg)
 ![Git](/asset/git.svg)
