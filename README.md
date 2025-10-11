@@ -24,38 +24,41 @@
 ✔ **Fun fact:** I always try to learn something new and then sleep till it stores in the brain 😎  
 
 ---
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
+<h3>My Tool Kit</h3>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <h3>My Tool Kit</h3>
+<p align="left">
+  <img src="/asset/nextjs.svg" height="38"/>
+  <img src="/asset/typescript.svg" height="38"/>
+  <img src="/asset/prisma-svgrepo-com.svg" height="38"/>
+  <img src="/asset/mongodb.svg" height="38"/>
+  <img src="/asset/hf-logo.svg" height="38"/>
+  <img src="/asset/python.svg" height="38"/>
+  <img src="/asset/nodejs.svg" height="38"/>
+  <img src="/asset/git.svg" height="38"/>
+  <img src="/asset/npm.svg" height="38"/>
+  <img src="/asset/gitlab.svg" height="38"/>
+  <img src="/asset/mysql.svg" height="38"/>
+  <img src="/asset/docker.svg" height="38"/>
+  <img src="/asset/canva.svg" height="38"/>
+  <img src="/asset/linux.svg" height="38"/>
+  <img src="/asset/bash.svg" height="38"/>
+  <img src="/asset/jupyter.svg" height="38"/>
+  <img src="/asset/kaggle.svg" height="38"/>
+  <img src="/asset/ubuntu.svg" height="38"/>
+  <img src="/asset/figma.svg" height="38"/>
+  <img src="/asset/kaggle.svg" height="38"/>
+  <img src="/asset/javascript.svg" height="38"/>
+  <img src="/asset/trello.svg" height="38"/>
+  <img src="/asset/reactjs.svg" height="38"/>
+  <img src="/asset/html.svg" height="38"/>
+  <img src="/asset/bootstrap.svg" height="38"/>
+  <img src="/asset/c.svg" height="38"/>
+  <img src="/asset/css.svg" height="38"/>
+  <img src="/asset/slack.svg" height="38"/>
+  <img src="/asset/php.svg" height="38"/>
+</p>
 
-![Next.js](/asset/nextjs.svg)
-![TypeScript](/asset/typescript.svg)
-![Prisma ORM](/asset/prisma-svgrepo-com.svg)
-![MongoDB](/asset/mongodb.svg)
-![Hugging Face](/asset/hf-logo.svg)
-![Python](/asset/python.svg)
-![Node.js](/asset/nodejs.svg)
-![Git](/asset/git.svg)
-![Npm](/asset/npm.svg)
-![GitLab](/asset/gitlab.svg)
-![MySQL](/asset/mysql.svg)
-![Docker](/asset/docker.svg)
-![Canva](/asset/canva.svg)
-![Linux](/asset/linux.svg)
-![bash](/asset/bash.svg)
-![jupyter](/asset/jupyter.svg)
-![kaggle](/asset/kaggle.svg)
-![ubuntu](/asset/ubuntu.svg)
-![Figma](/asset/figma.svg)
-![Kaggle](/asset/kaggle.svg)
-![Javascript](/asset/javascript.svg)
-![Trello](/asset/trello.svg)
-![React JS](/asset/reactjs.svg)
-![Html](/asset/html.svg)
-![Bootstrap](/asset/bootstrap.svg)
-![C](/asset/c.svg)
-![CSS](/asset/css.svg)
-![Slack](/asset/slack.svg)
-![php](/asset/php.svg)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
 [![IAM](https://img.shields.io/badge/AWS-IAM-F58021?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/iam/)
@@ -76,7 +79,6 @@
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![DevOps](https://img.shields.io/badge/AWS-DevOps-FF4500?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/devops/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-9BCE0B?style=flat&logo=jenkins&logoColor=white)](https://jenkins.io/)
-
 
 <hr>
 
