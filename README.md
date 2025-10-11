@@ -26,7 +26,6 @@
 
 ---
 
-<hr>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <h3>My Tool Kit</h3>
 
 ![Next.js](/asset/nextjs.svg)
