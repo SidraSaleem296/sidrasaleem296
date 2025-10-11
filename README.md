@@ -7,14 +7,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>   
 <hr>
-- 👩‍💻 Current working as a **Technical Writer and Full Stack developer** at **Securiti ai**
+- 👩‍💻 Current working as a **Technical Writer and Full Stack developer** at **Securiti ai**.
 - 💻 I’ve worked with **SudoConsultants** as an **Enterprise Content Manager**.
 - 👩‍💻 Software Engineering Graduate from Comsats University Islamabad
 - 👩‍💻As a side stuff learning LLLMs(Large Language Models) and Working on **Open Source** AI Projects.
 - 🤖 **XAI**, **Generative AI** and **Quantum Computation** enthusiast 🧠💻
 - ⚡ In my free time, I love exploring the latest tech articles,research papers and staying up-to-date with emerging technologies and best practices.
 - 📫 &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Sidra-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sidra-saleem-5134911b5)
-- ✉️ Email [sidrasaleem296@gmail.com](mailto:thesolutionstotech@gmail.com)
+- ✉️ Email [sidrasaleem296@gmail.com](mailto:divergent.developer296@gmail.com)
 
 <ul>
   <li>✔ Call me: <b>She/Her</b> or <b>TeamWorker</b> 😊</li>
