@@ -7,8 +7,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>   
 <hr>
-
-- 💻 I’m currently woking with **SudoConsultants** as an **Enterprise Content Manager**.
+- 👩‍💻 Current working as a **Technical Writer and Full Stack developer** at **Securiti ai**
+- 💻 I’ve worked with **SudoConsultants** as an **Enterprise Content Manager**.
 - 👩‍💻 Software Engineering Graduate from Comsats University Islamabad
 - 👩‍💻As a side stuff learning LLLMs(Large Language Models) and Working on **Open Source** AI Projects.
 - 🤖 **XAI**, **Generative AI** and **Quantum Computation** enthusiast 🧠💻
