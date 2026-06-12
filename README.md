@@ -7,11 +7,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>   
 
-- 👩‍💻 Current working as a **Technical Writer and Full Stack developer** at **Securiti ai**.  
-- 💻 I’ve worked with **SudoConsultants** as an **Enterprise Content Manager**.  
-- 👩‍💻 Software Engineering Graduate from **Comsats University Islamabad**  
-- 👩‍💻 As a side stuff learning **LLLMs (Large Language Models)** and Working on **Open Source** AI Projects.  
-- 🤖 **XAI**, **Generative AI** and **Quantum Computation** enthusiast 🧠💻  
+- 👩‍💻 Currently a **Technical Writing Engineer** at **Veeam Software** (post **$1.72B** acquisition of **Securiti**).  
+- 🤖 **Technical Writer & Full Stack AI Developer** at **Securiti** — built an internal **RFP automation SaaS** (LLM APIs + Weaviate) hitting **85–90% accuracy**.  
+- 🚀 **Founder & CEO** at **Akss AI**, building GenAI products for enterprise & SME clients.  
+- 💻 Previously **AI Software Developer** on **Upwork**, **Research Assistant / AI Intern (LLM Engineer)** at **Cytomate**, and **Senior Technical Writer** at **SUDO Consultants**.  
+- 👩‍💻 Software Engineering Graduate from **Comsats University Islamabad**.  
+- 🤖 **LLM Pipelines**, **RAG**, **MCP**, **Agentic AI**, **Generative AI** and **Quantum Computation** enthusiast 🧠💻  
 - ⚡ In my free time, I love exploring the latest tech articles, research papers and staying up-to-date with emerging technologies and best practices.  
 - 📫 [![Linkedin Badge](https://img.shields.io/badge/-Sidra-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sidra-saleem-5134911b5)  
 - ✉️ Email [sidrasaleem296@gmail.com](mailto:divergent.developer296@gmail.com)  
@@ -110,10 +111,11 @@
       <hr>
       <p align="center">
         <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />
-        &nbsp;Git profile Trophies
+        &nbsp;Git Streak Stats
       </p>
-      <br>
-      <img src="https://github-profile-trophy.vercel.app/?username=SidraSaleem296&theme=juicyfresh&no-bg=true" />
+      <p align="center">
+        <img src="https://streak-stats.demolab.com?user=SidraSaleem296&theme=radical&hide_border=true" width="410" />
+      </p>
     </div>
     <hr>
     <div>
